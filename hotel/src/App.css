@@ -1,0 +1,30 @@
+/* App.css */
+
+.app-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+.hotel-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Additional styling for the Hotel component */
+li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #dedfc5;
+}
+
+/* Header style */
+h1 {
+  color: #333;
+}
+
+/* Apply a background color to the entire app */
+body {
+  background-color: #f0f0f0;
+}

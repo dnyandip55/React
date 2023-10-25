@@ -1,0 +1,22 @@
+
+
+/* Style for the hotel list item */
+li {
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  /* Style for the hotel name */
+  h1 {
+    color: #007bff; /* Blue color for the hotel name */
+  }
+  
+  /* Hover effect on the list item */
+  li:hover {
+    background-color: #f5f5f5;
+  }
+  
